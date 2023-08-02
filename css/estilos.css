@@ -539,7 +539,18 @@ footer p{
   }
 }
 
+@media (max-width:435px) {
 
+  .cont2 {
+    height: 1500px;
+  }
+  
+  footer p{
+    font-size: 16px;
+    
+  }
+
+}
 
 
 
